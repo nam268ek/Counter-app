@@ -1,0 +1,14 @@
+import React from "react";
+
+class Rentals extends React.Component {
+  render() {
+    return (
+      <div>
+        <br />
+        <h1>Rentals</h1>
+      </div>
+    );
+  }
+}
+
+export default Rentals;
